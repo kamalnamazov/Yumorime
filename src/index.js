@@ -8,12 +8,12 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
-  <React.StrictMode>
+  
     <GlobalStyle>
     <GlobalContextProvider>
       <App />
     </GlobalContextProvider>
     </GlobalStyle>
-  </React.StrictMode>
+  
   </BrowserRouter>
 );
