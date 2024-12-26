@@ -9,10 +9,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter basename='Yumorime'>
   <React.StrictMode>
-    <GlobalStyle />
+    <GlobalStyle>
     <GlobalContextProvider>
       <App />
     </GlobalContextProvider>
+    </GlobalStyle>
   </React.StrictMode>
   </BrowserRouter>
 );
