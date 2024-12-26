@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Yumorime/static/js/main.b3056d95.js",
+    "main.js": "/Yumorime/static/js/main.4d49d39a.js",
     "index.html": "/Yumorime/index.html",
-    "main.b3056d95.js.map": "/Yumorime/static/js/main.b3056d95.js.map"
+    "main.4d49d39a.js.map": "/Yumorime/static/js/main.4d49d39a.js.map"
   },
   "entrypoints": [
-    "static/js/main.b3056d95.js"
+    "static/js/main.4d49d39a.js"
   ]
 }
